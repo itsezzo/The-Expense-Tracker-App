@@ -1,4 +1,4 @@
-# Meals App.
+# The Expense Tracker App.
 
 ## The 4th project of react native course.
 
